@@ -179,5 +179,5 @@ void vecAdd(float* A_h, float* B_h, float* C_h, int n) {
 3. Device code is compiled into PTX, then into GPU-specific binaries.
 
 ## 2.8 Findings
-![[qwe_download.png]]
+![CPU vs GPU performance](/20250411/qwe_download.png)
 This graph shows how CPU and GPU perform when adding two vectors of increasing size. For small vectors, the CPU is actually faster—mostly because launching GPU kernels and transferring memory adds some overhead. But once the vector size gets big enough (around 10,000 elements), the GPU starts to shine. It handles the heavy lifting way better and scales nicely as the data grows. By the time we hit 10 million elements, the GPU is clearly the better option. TL;DR: CPUs are great for small tasks, but GPUs crush it with large-scale parallel work.
