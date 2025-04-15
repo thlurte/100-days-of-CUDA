@@ -17,3 +17,25 @@ Implemented a CUDA program for converting RGB image into greyscale.
 **Reading:**
 - Chapter 3 of _Programming Massively Parallel Processors_ (PMPP)
 - El Hajj, Izzat. **"Lecture 03 - Multidimensional Grids and Data."** _YouTube_, uploaded by Programming Massively Parallel Processors, 22 July 2022, [https://www.youtube.com/watch?v=iE-xGWBQtH0](https://www.youtube.com/watch?v=iE-xGWBQtH0).
+
+## Day 03
+**File** `20250413/Day_3.ipynb` (blur image)
+**File** `20250413/Day_3_1.ipynb` (matrix multiplication)
+
+Implemented a CUDA program for bluring image.
+Implemented a CUDA program for calculating the output of matrix multiplication for two `N` $\times$ `N` matrix.
+
+**Reading:**
+- Chapter 3 of _Programming Massively Parallel Processors_ (PMPP)
+- El Hajj, Izzat. **"Lecture 03 - Multidimensional Grids and Data."** _YouTube_, uploaded by Programming Massively Parallel Processors, 22 July 2022, [https://www.youtube.com/watch?v=iE-xGWBQtH0](https://www.youtube.com/watch?v=iE-xGWBQtH0).
+
+## Day 04
+**File** `20250414/Day_4.ipynb` (relu activation function)
+**File** `20250414/Day_4.1.ipynb` (tanh activation function)
+**File** `20250414/Day_4.2.ipynb` (sigmoid activation function)
+
+Implemented a CUDA program for activation  functions.
+
+**Reading:**
+- Chapter 4 of _Programming Massively Parallel Processors_ (PMPP)
+- El Hajj, Izzat. **"Lecture 04 - GPU Architecture."** _YouTube_, uploaded by Programming Massively Parallel Processors, 22 July 2022, [https://www.youtube.com/watch?v=iE-xGWBQtH0](https://www.youtube.com/watch?v=iE-xGWBQtH0).
