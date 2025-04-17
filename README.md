@@ -39,3 +39,20 @@ Implemented a CUDA program for activation  functions.
 **Reading:**
 - Chapter 4 of _Programming Massively Parallel Processors_ (PMPP)
 - El Hajj, Izzat. **"Lecture 04 - GPU Architecture."** _YouTube_, uploaded by Programming Massively Parallel Processors, 22 July 2022, [https://www.youtube.com/watch?v=iE-xGWBQtH0](https://www.youtube.com/watch?v=iE-xGWBQtH0).
+## Day 05
+**File** `20250415/Day_5.ipynb` (transpose a matrix)**
+
+Implemented a CUDA program for transposing a N by N matrix.
+
+**Reading:**
+- Chapter 5 of _Programming Massively Parallel Processors_ (PMPP)
+- El Hajj, Izzat. **"Lecture 05 - Memory and Tiling."** _YouTube_, uploaded by Programming Massively Parallel Processors, 22 July 2022, [https://www.youtube.com/watch?v=iE-xGWBQtH0](https://www.youtube.com/watch?v=iE-xGWBQtH0).
+
+## Day 06
+**File** `20250416/Day_6.ipynb` tiled matrix multiplication
+
+Implemented tiled matrix multiplication algorithm.
+
+**Reading:**
+- Chapter 5 of _Programming Massively Parallel Processors_ (PMPP)
+- El Hajj, Izzat. **"Lecture 05 - Memory and Tiling."** _YouTube_, uploaded by Programming Massively Parallel Processors, 22 July 2022, [https://www.youtube.com/watch?v=iE-xGWBQtH0](https://www.youtube.com/watch?v=iE-xGWBQtH0).
